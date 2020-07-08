@@ -1,0 +1,14 @@
+findFranchise: Rashmi
+findFranchise: Ben Stokes
+findFranchise: Naren
+findFranchise: Robin Uthappa
+findFranchise: Mohan
+listPlayers: 10
+listPlayers: RR
+listPlayers: 20
+listPlayers: SRH
+listPlayers: 30
+franchiseBuddies: Krunal Pandya : Kieron Pollard
+franchiseBuddies: Krunal Pandy : Kieron Poll
+playerConnect: Kedar Jadhav : Ishan Kishan
+playerConnect: Krunal Pandya : Kieron Pollard

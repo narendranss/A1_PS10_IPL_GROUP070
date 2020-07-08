@@ -1,0 +1,115 @@
+--------Function displayAll--------
+Total no. of franchises: 10
+Total no. of players: 27
+List of franchises:
+GL
+KKR
+MI
+CSK
+SRH
+RR
+RPS
+RCB
+DD
+KXIP
+
+List of players:
+Krunal Pandya
+Jofra Archer
+Umesh Yadav
+Rashid Khan
+Sanju Samson
+Robin Uthappa
+Shikhar Dhawan
+Jaydev Unadkat
+Kedar Jadhav
+Mitchell Starc
+Andrew Tye
+Ishan Kishan
+Glenn Maxwell
+Yuzvendra Chahal
+Marcus Stoinis
+Dinesh Karthik
+Kieron Pollard
+Dwayne Bravo
+KL Rahul
+G Krishnappa
+Chris Woakes
+Ben Stokes
+Karun Nair
+Manish Pandey
+Karn Sharma
+R Ashwin
+Chris Lynn
+-----------------------------------------
+--------Function displayFranchises --------
+Player name: Rashmi
+List of Franchises:
+No franchise found
+
+Player name: Ben Stokes
+List of Franchises:
+RR
+RPS
+
+Player name: Naren
+List of Franchises:
+No franchise found
+
+Player name: Robin Uthappa
+List of Franchises:
+KKR
+
+Player name: Mohan
+List of Franchises:
+No franchise found
+
+-----------------------------------------
+--------Function displayPlayers --------
+Franchise name: 10
+List of Players:
+No Players found
+
+Franchise name: RR
+List of Players:
+Ben Stokes
+Jaydev Unadkat
+Sanju Samson
+Jofra Archer
+G Krishnappa
+
+Franchise name: 20
+List of Players:
+No Players found
+
+Franchise name: SRH
+List of Players:
+Manish Pandey
+Rashid Khan
+Shikhar Dhawan
+
+Franchise name: 30
+List of Players:
+No Players found
+
+-----------------------------------------
+
+--------Function franchiseBuddies--------
+Player A:  Krunal Pandya 
+Player B:  Kieron Pollard
+
+Franchise Buddies: Yes, MI
+
+--------Function franchiseBuddies--------
+Player A:  Krunal Pandy 
+Player B:  Kieron Poll
+
+Franchise Buddies: No, No common Franchise
+--------Function findPlayerConnect--------
+Player A: Kedar Jadhav
+Player B: Ishan Kishan
+Yes, Kedar Jadhav > CSK > Dwayne Bravo > GL > Ishan Kishan
+--------Function findPlayerConnect--------
+Player A: Krunal Pandya
+Player B: Kieron Pollard
+Yes, Krunal Pandya > MI > Kieron Pollard
