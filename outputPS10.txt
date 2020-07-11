@@ -2,45 +2,45 @@
 Total no. of franchises: 10
 Total no. of players: 27
 List of franchises:
-GL
-KKR
-MI
-CSK
-SRH
-RR
-RPS
 RCB
-DD
+KKR
+RR
 KXIP
+GL
+SRH
+RPS
+CSK
+DD
+MI
 
 List of players:
-Krunal Pandya
-Jofra Archer
-Umesh Yadav
-Rashid Khan
-Sanju Samson
-Robin Uthappa
-Shikhar Dhawan
-Jaydev Unadkat
-Kedar Jadhav
+R Ashwin
+Dwayne Bravo
 Mitchell Starc
+Manish Pandey
 Andrew Tye
-Ishan Kishan
-Glenn Maxwell
 Yuzvendra Chahal
+Sanju Samson
+Jofra Archer
+Karun Nair
 Marcus Stoinis
 Dinesh Karthik
-Kieron Pollard
-Dwayne Bravo
-KL Rahul
-G Krishnappa
-Chris Woakes
 Ben Stokes
-Karun Nair
-Manish Pandey
 Karn Sharma
-R Ashwin
 Chris Lynn
+Krunal Pandya
+Shikhar Dhawan
+Ishan Kishan
+G Krishnappa
+Kieron Pollard
+Kedar Jadhav
+Chris Woakes
+Umesh Yadav
+Glenn Maxwell
+Jaydev Unadkat
+Rashid Khan
+Robin Uthappa
+KL Rahul
 -----------------------------------------
 --------Function displayFranchises --------
 Player name: Rashmi
@@ -109,7 +109,3 @@ Franchise Buddies: No, No common Franchise
 Player A: Kedar Jadhav
 Player B: Ishan Kishan
 Yes, Kedar Jadhav > CSK > Dwayne Bravo > GL > Ishan Kishan
---------Function findPlayerConnect--------
-Player A: Krunal Pandya
-Player B: Kieron Pollard
-Yes, Krunal Pandya > MI > Kieron Pollard

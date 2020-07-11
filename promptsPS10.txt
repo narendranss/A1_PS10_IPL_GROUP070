@@ -11,4 +11,3 @@ listPlayers: 30
 franchiseBuddies: Krunal Pandya : Kieron Pollard
 franchiseBuddies: Krunal Pandy : Kieron Poll
 playerConnect: Kedar Jadhav : Ishan Kishan
-playerConnect: Krunal Pandya : Kieron Pollard

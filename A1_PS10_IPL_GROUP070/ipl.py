@@ -98,7 +98,7 @@ class IPL:
                 file.write("\n")
             file.write("-----------------------------------------\n")
 
-    def displayFranchises(self, player):
+    def displayFranchises(self, player=None):
         """
         This function displays all the franchises a particular player is associated with.
         The function reads the input franchise name from the file promptsPS10.txt
@@ -144,7 +144,7 @@ class IPL:
                 file.write("\n")
             file.write("-----------------------------------------\n")
 
-    def displayPlayers(self, franchise):
+    def displayPlayers(self, franchise=None):
         """
         This function displays all the players associated with a franchise.
         The function reads the input franchise name from the file promptsPS10.txt
@@ -194,7 +194,7 @@ class IPL:
                 file.write("\n")
             file.write("-----------------------------------------\n")
 
-    def franchiseBuddies(self, playerA, playerB):
+    def franchiseBuddies(self, playerA=None, playerB=None):
         """
         Uses one of the traversal techniques to find out if two players are related to each other through one common franchise.
         The function reads the input player names from the file promptsPS10.txt
@@ -242,7 +242,7 @@ class IPL:
                     file.write("Franchise Buddies: No, ")
                     file.write("No common Franchise")
 
-    def bfs(self, playerA,playerB):
+    def bfs(self, playerA=None,playerB=None):
         adjList={}
         for edge in self.edges:
             adjList.setdefault(edge[0],[]).append(edge[1])
@@ -258,7 +258,7 @@ class IPL:
                 else:
                     queue.append((next,path+[next]))
 
-    def findPlayerConnect(self, playerA, playerB):
+    def findPlayerConnect(self, playerA=None, playerB=None):
         """
         Uses BFS traversal techniques to find out if two players A and B are related to each other
         through a common franchise member C as defined in the question above.

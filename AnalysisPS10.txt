@@ -1,0 +1,6 @@
+def readInputfile(self, inputfile) --> Time Complexity is O(n*m), n is for file reading and m is for creation of edges and playerTeam
+def displayAll(self) --> Time Complexity is O(E+n+m), E is for reading edges, n for writing team into file, m is for writing players into file.
+def displayFranchises(self, player) --> Time Complexity is O(n*m + k*p), n - file reading, m - edges, k - playerFranchise iteration, p - playerFranchice[1] to print output
+def displayPlayers(self, franchise) --> Time Complexity is O(n*m + k*p), n - file reading, m - edges, k - playerFranchise iteration, p - playerFranchice[1] to print output
+def franchiseBuddies(self, playerA, playerB) --> Time Complexity is O(n*m + k*p), n - file reading, m- edges, k - intersection of franchise among players, p - printing output.
+def findPlayerConnect(self, playerA, playerB) --> Time Complexity is O(edges+vertices) for BFS of single player connect.

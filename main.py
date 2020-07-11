@@ -5,10 +5,10 @@ def main():
     ipl = IPL()
     output = ipl.readInputfile("inputPS10.txt")
     ipl.displayAll()
-    ipl.displayFranchises('')
-    ipl.displayPlayers('')
-    ipl.franchiseBuddies(None, None)
-    ipl.findPlayerConnect(None, None)
+    ipl.displayFranchises()
+    ipl.displayPlayers()
+    ipl.franchiseBuddies()
+    ipl.findPlayerConnect()
     print("Done!!!")
 
 if __name__ == '__main__':
